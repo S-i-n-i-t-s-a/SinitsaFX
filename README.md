@@ -8,3 +8,5 @@ A shader that enhances dark environments in the game, making shadows more deeper
 FairyColors:
 
 It almost replicates the color grading effect from BloomingHDR by BlueSkyDefender, but without the excess (almost ( ͡° ͜ʖ ͡°) ) and with less FPS loss. It makes some bright colors more saturated and softer.
+
+AI was used.
